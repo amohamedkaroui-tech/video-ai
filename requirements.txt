@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+gunicorn>=23,<24
+requests>=2.32,<3
+Pillow>=11,<13
+edge-tts>=7.2,<8
